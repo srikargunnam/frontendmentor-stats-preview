@@ -83,7 +83,6 @@ I will try to use CSS grid and get a good grip on using it for my responsive web
 - Twitter - [@SrikarGunnam](https://twitter.com/SrikarGunnam)
 - Codepen - [@srikargunnam](https://codepen.io/srikargunnam)
 - GitHub - [@srikargunnam](https://github.com/srikargunnam/)
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments 🏷
 
